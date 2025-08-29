@@ -1,0 +1,30 @@
+/* #region fonts */
+
+@font-face {
+    font-family: 'Gilroy-Bold';
+    src: local('Gilroy-Bold'), url('Fonts/Gilroy-Bold.woff') format('woff');
+}
+
+
+@font-face {
+    font-family: 'Gilroy-Heavy';
+    src: local('Gilroy-Heavy'), url('Fonts/Gilroy-Heavy.woff') format('woff');
+}
+
+
+@font-face {
+    font-family: 'Gilroy-Light';
+    src: local('Gilroy-Light'), url('Fonts/Gilroy-Light.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Gilroy-Medium';
+    src: local('Gilroy-Medium'), url('Fonts/Gilroy-Medium.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Gilroy-Regular';
+    src: local('Gilroy-Regular'), url('Fonts/Gilroy-Regular.woff') format('woff');
+}
+
+/* #endregion */
